@@ -207,7 +207,7 @@ cc_prebuilt_library_shared {
 android_app_import {
 	name: "MotoSignatureApp",
 	owner: "motorola",
-	apk: "proprietary/app/MotoSignatureApp/MotoSignatureApp.apk",
+	apk: "proprietary/system/app/MotoSignatureApp/MotoSignatureApp.apk",
 	preprocessed: true,
 	presigned: true,
 	dex_preopt: {
